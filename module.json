@@ -13,5 +13,8 @@
         "settingsFile": "config.json",
         "settingsMigrator": "./lib/setting_migration.js"
     },
+    "dependencies": {
+        "badgui-fix": "https://raw.githubusercontent.com/tera-classic-toolbox/badgui-fix/master/module.json"
+    },
     "servers": ["https://raw.githubusercontent.com/tera-classic-mods/fps-utils/master/"]
 }
